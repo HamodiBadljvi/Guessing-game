@@ -1,4 +1,4 @@
-Aimport java.io.Console;
+import java.io.Console;
 import java.util.Scanner;
 
 public class Guesser {
