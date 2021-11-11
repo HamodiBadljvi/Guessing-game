@@ -1,0 +1,21 @@
+1. När använder man add respektive commit?
+Man börjar med “git add” för att skapa filen sedan så använder du “git commit” och där skriver man det man har gjort med den nya filen.
+
+
+2. Vad är pull respektive push?
+Pull använder för att hämta uppdateringar från repository exempel om man jobbar i en grupp och någon gör ändringar så kan du hämta de med “pull”
+
+Push skickar filer till github men kommandot måste användas efter git add och git commit .  
+
+	
+3. När använder man log respektive status?
+git log visar alla commits som har gjorts i repository med den senaste först, vem som har gjort det och när den gjorts
+
+git status visar vad man gjort med filerna ex. tar bort eller lägger till och modifieringar i filer. och för att se så allting är rätt efter något kommando så som git add och commit
+
+
+4. Hur kan man formulera sig i sina commit-meddelanden?
+Spara filen, lägg till den i repot, committa, pusha.
+Man kan använda git commit -m “vad man har lagt i filen” i så står det vad man har gjort och 
+gitändrat i filen
+
